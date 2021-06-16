@@ -1,0 +1,4 @@
+#define a list of numbers
+list_of_numbers = [2,5,1,6,7,89,100,10]
+
+for number in list_of_numbers
